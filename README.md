@@ -1,5 +1,6 @@
 # Machine learning modularity
 [![arXiv](https://img.shields.io/badge/arXiv-2601.01779-b31b1b.svg)](https://arxiv.org/abs/2601.01779)
+
 This repository provides the official implementation for the paper **"Machine learning modularity"**. The project explores the application of machine learning architectures to identify and simplify complex mathematical structures, specifically focusing on Möbius transformations, $q-\theta$ functions, and elliptic $\Gamma$ functions.
 
 ## Project Architecture
